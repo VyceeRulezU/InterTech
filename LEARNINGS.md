@@ -40,9 +40,17 @@ lead to outputs that require less correction.
 
 ---
 
-## 5. AI as an Assistant, Not a Designer
+## 5. Selective Acceptance Improves Quality
+Not all AI outputs need heavy modification.
+Accepting the CTA and footer imagery saved time without compromising UX.
+
+---
+
+## 6. AI as an Assistant, Not a Designer
 The biggest improvement was mindset-related:
 - AI accelerates implementation
 - Design judgment remains human-led
+- AI is effective at generating ideas and patterns
+- But architecture decisions must remain human-led.
 
 Using AI effectively means knowing when to override it.
