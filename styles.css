@@ -1595,6 +1595,12 @@ body {
     /* height: ; */
   }
 
+  .pricing_card, 
+  .basic_card, 
+  .premium_card{
+    width: 100%;
+  }
+
   .faq-section{
     width: 100%;
   }

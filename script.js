@@ -20,7 +20,7 @@ document.addEventListener('DOMContentLoaded', () => {
         if (questionCont) questionCont.classList.remove('question_open');
         if (answer) answer.setAttribute('aria-hidden', 'true');
 
-        // Make card focusable for keyboard interaction
+        // Make card focusable for keyboard interaction - optional but I just used because why not?
         card.setAttribute('tabindex', '0');
 
         const toggleCard = () => {
