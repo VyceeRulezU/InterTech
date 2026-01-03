@@ -1494,7 +1494,7 @@ body {
     width: 100%;
     display: flex;
     flex-wrap: wrap;
-    gap: 1rem;
+    gap: 2rem;
   }
 
   .feat_card{
@@ -1502,11 +1502,21 @@ body {
     display: flex;
     flex: 1 1 calc(50% - 1rem);
     flex-direction: column;
-    row-gap: 1.5rem;
+    row-gap: 1rem;
     align-items: center;
     justify-content: center;
     text-align: center;
 }
+
+.feat_title{
+    font-size: 1.8rem;
+}
+
+.feat_subtitle{
+    width: fit-content;
+}
+
+
 
 .infra_section {
     width: 100%;
