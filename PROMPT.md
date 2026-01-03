@@ -66,6 +66,61 @@ For each AI-generated output, I reviewed the response critically before integrat
 
 ---
 
+## 4. Infrastructure Cards (Desktop vs Mobile)
+
+### What I accepted from AI
+- General card concept and content grouping
+
+### What I modified and why
+- Created **separate DOM structures**:
+  - `infra_cards_wrapper` for desktop
+  - `infra_cards_wrapper_mobile` for mobile
+- This ensured usability and clarity across screen sizes
+
+### Mistakes AI made
+1. Attempted to force responsiveness through CSS only.
+2. Failed to adapt layout meaningfully for mobile.
+3. Ignored content density and scroll fatigue.
+
+---
+
+## 3. Testimonials Section
+
+### What I accepted from AI
+- Concept of animated testimonial cards
+- Use of vertical scrolling for motion
+
+### What I modified and why
+- Desktop uses three containers with different scroll behaviors
+- Mobile uses a single container
+- Rejected stacking all testimonial columns vertically on mobile
+  due to excessive section height and poor UX
+
+### Mistakes AI made
+1. Suggested identical structures for desktop and mobile.
+2. Did not account for mobile scroll fatigue.
+3. Over-prioritized animation over usability.
+
+---
+
+## 5. CTA & Footer Imagery
+
+### What I accepted from AI
+- CTA image selection
+- Footer image usage
+
+### What I modified and why
+- Minimal to no modification was needed
+- Visual intent aligned with conversion goals
+
+### Mistakes AI made
+1. No major issues, but lacked explanation of image rationale.
+2. Did not validate contrast across breakpoints.
+3. Did not consider loading optimization.
+
+---
+
+
 ## Summary
 AI outputs were used as a starting point, not a final solution.  
 Each response required refinement to meet production-quality, UX, and maintainability standards.
