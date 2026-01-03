@@ -1590,6 +1590,11 @@ body {
     flex-direction: column;
   }
 
+  .pricing_card{
+    padding: 1rem;
+    /* height: ; */
+  }
+
   .faq-section{
     width: 100%;
   }
