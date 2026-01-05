@@ -551,7 +551,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 8rem 1rem;
-    background-image: url(/images/Grad_bg_lght_Drk.svg);
+    background-image: url("../images/grad-bg-lght-drk.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -620,7 +620,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 10rem 1rem;
-    background-image: url(/images/Grad_bg_Drk_lght.svg);
+    background-image: url("../images/grad-bg-drk-lght.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -740,7 +740,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 10rem 1rem;
-    background-image: url(/images/Grad_bg_lght_Drk.svg);
+    background-image: url("../images/grad-bg-lght-drk.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -908,7 +908,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 10rem 1rem;
-    background-image: url(/images/Testimonial_bg.svg);
+    background-image: url("../images/testimonial-bg.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
@@ -1085,7 +1085,7 @@ body {
     align-items: center;
     justify-content: center;
     padding: 10rem 1rem;
-    background-image: url(/images/Testimonial_bg.svg);
+    background-image: url("../images/testimonial-bg.svg");
     background-position: center;
     background-size: cover;
     background-repeat: no-repeat;
