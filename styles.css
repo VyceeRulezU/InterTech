@@ -1415,7 +1415,7 @@ body {
     justify-content: center;
     text-align: center;
     padding: 0 1.5rem;
-    background-image: url(/images/Hero\ Section_With\ Moon.svg);
+    /* background-image: url(/images/Hero\ Section_With\ Moon.svg); */
     background-position: right;
     background-size: cover;
     background-repeat: no-repeat;
