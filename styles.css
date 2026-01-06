@@ -159,7 +159,6 @@ body {
     position: absolute;
     top: -16rem;
     right: -18rem;
-    /* width: 180px;          adjust */
     pointer-events: none; /* decorative only */
     opacity: 0.25;
     background: transparent;
